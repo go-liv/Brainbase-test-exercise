@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Ambit;
+    src: url('../fonts/Ambit-Regular.ttf');
+}
+
+table, tr, td {
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+td, th {
+    height: auto;
+    padding: 10px;
+}
+
+button {
+    color: rgb(16, 16, 141);
+}
+
+.dateNCurr {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
